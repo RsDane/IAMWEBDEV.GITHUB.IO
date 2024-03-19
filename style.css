@@ -61,6 +61,9 @@
  .navbar .menu li a:hover{
   color: rgb(54, 46, 46)
  }
+/*Menu button*/
+.menu-btn{
+  cursor: pointer;
  /*style for home section*/
  .home{
  display: flex;
