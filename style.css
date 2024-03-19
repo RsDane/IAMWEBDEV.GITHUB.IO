@@ -449,12 +449,16 @@ footer span a:hover{
     position: fixed;
     height: 80vh;
     width: 100%;
-    left: 0;
+    left: -100;
     top: 0; 
     background: black;
     opacity:  90%;
     text-align: center;
     padding-top: 80px;
+    transition: all 0.3s ease;
+  }
+  .navbar .menu.active{
+   left: 0;
   }
   .navbar .menu li{
     display: block;
