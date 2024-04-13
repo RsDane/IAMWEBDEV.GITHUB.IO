@@ -502,7 +502,7 @@ font-size: 35px;
   }
 }
 @media (max-width: 690px){
-  .maxwidth{
+  .max-width{
     padding: 0 23px;
   }
   .services .services-content .card{
@@ -510,7 +510,7 @@ font-size: 35px;
   }
 }
 @media (max-width: 500px){
-  .contact .rihgt form .fields{
+  .contact .right form .fields{
     flex-direction: column;
   }
   .contact .right form .name,
